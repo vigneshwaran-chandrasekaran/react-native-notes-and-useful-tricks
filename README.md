@@ -46,4 +46,22 @@
  ```
  npm install --save-dev babel-plugin-module-resolver 
 ```
+Example configuration of babel.config.js:
+
+```
+module.exports = {
+  ...other config
+
+  plugins: [
+    ['module-resolver', {
+      root: [
+        './src',
+      ],
+      "alias": {
+        "~": "./src",
+      }
+    }],
+  ],
+};
+```
 
