@@ -39,10 +39,10 @@
 | https://aboutreact.com/ |
 
 
- ### Absolute path in React native
- https://stackoverflow.com/questions/57039306/how-to-enable-jsconfig-json-in-react-native-project
-https://stackoverflow.com/a/57039921/3882241
-https://github.com/tleunen/babel-plugin-module-resolver
-
-npm install --save-dev babel-plugin-module-resolver
+ ## Absolute path in React native
+ ``` 
+ Babel Plugin Module Resolver [Module Resolver](https://github.com/tleunen/babel-plugin-module-resolver).
+ [stackoverflow](https://stackoverflow.com/a/57039921/3882241).
+ npm install --save-dev babel-plugin-module-resolver 
+```
 
