@@ -42,7 +42,7 @@
  ## Absolute path in React native
  Babel Plugin Module Resolver [Module Resolver](https://github.com/tleunen/babel-plugin-module-resolver)
  
- [stackoverflow](https://stackoverflow.com/a/57039921/3882241).
+ [Stack overflow answer](https://stackoverflow.com/a/57039921/3882241)
  ```
  npm install --save-dev babel-plugin-module-resolver 
 ```
