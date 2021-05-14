@@ -25,6 +25,9 @@
 | ------ | ------ |
 |  https://github.com/react-native-training/react-native-fonts | React native fonts  |
 |  https://reactnativeelements.com/ | React native element, components library  |
+|  https://www.npmjs.com/package/react-native-splash-screen | Splash screen  |
+|  https://www.npmjs.com/package/react-native-appearance | Appearance, color scheme  |
+
 
 
 
@@ -37,6 +40,10 @@
 | https://reactnativeexample.com/ |
 | https://reactnative.directory/ |
 | https://aboutreact.com/ |
+| https://blog.logrocket.com/building-a-splash-screen-in-react-native/ | Splash screen |
+
+
+
 
 
  ## Absolute path in React native
