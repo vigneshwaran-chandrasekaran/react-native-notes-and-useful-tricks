@@ -35,6 +35,7 @@
 | ------ | ------ |
 |  https://github.com/vhpoet/react-native-styling-cheat-sheet | Styling cheat sheet  |
 |  https://www.awesome-react-native.com/ | Awesome react native  |
+| http://www.reactnative.com/ |
 |  https://reactnativemaster.com/  |
 | https://reactnativeexample.com/ |
 | https://reactnative.directory/ |
@@ -52,6 +53,14 @@
 |  https://github.com/wix/react-native-ui-lib | ui lib  |
 |  https://reactnativeelements.com/ | React native element, components library  |
 
+
+ ## Install React Native
+ react-native link is an automatic way for installing native dependencies. It is an alternative to manually linking the dependency in your project. 
+ 
+ [Stack overflow answer](https://stackoverflow.com/a/54764060/3882241)
+ ```
+npm i -g react-native-cli
+```
 
 
 
