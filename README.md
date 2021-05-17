@@ -99,3 +99,4 @@ module.exports = {
 npm i -g react-native-cli
 ```
 
+[RN1]: <https://www.youtube.com/playlist?list=PLYxzS__5yYQmdfEyKDrlG5E0F0u7_iIUo>
