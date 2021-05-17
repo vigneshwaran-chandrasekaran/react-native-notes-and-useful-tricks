@@ -81,3 +81,11 @@ module.exports = {
 };
 ```
 
+ ## React native Link
+ react-native link is an automatic way for installing native dependencies. It is an alternative to manually linking the dependency in your project. 
+ 
+ [Stack overflow answer](https://stackoverflow.com/a/54764060/3882241)
+ ```
+npm i -g react-native-cli
+```
+
