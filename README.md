@@ -88,6 +88,8 @@ javac -version
  
   [Stack overflow answer](https://stackoverflow.com/a/43626724/3882241)
 
+
+When running others project or cloned project from github, to run it on android use the same
  
 
 Go to your React-native Project -> Android
@@ -113,6 +115,9 @@ Now, Run the react-native run-android in your terminal.
 example in my system sample file is
 
 __sdk.dir = /home/user5/Android/Sdk__ 
+
+
+
 
 
  ## Absolute path in React native
