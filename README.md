@@ -58,12 +58,31 @@
  
  ```
  npm i -g react-native
+ 
 npm i -g react-native-cli
+
 npx react-native init <FolderName>
 ```
 
 
+ ## Install Java in Ubuntu
+ |  https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-on-ubuntu-18-04 |
+ |  https://linuxize.com/post/install-java-on-ubuntu-18-04/ |
 
+to install java on ubuntu
+ ```
+sudo apt update
+
+sudo apt install default-jdk
+
+sudo apt install default-jre
+```
+To check installed java version
+ ```
+java -version
+
+javac -version
+```
 
  ## Absolute path in React native
  Babel Plugin Module Resolver [Module Resolver](https://github.com/tleunen/babel-plugin-module-resolver)
