@@ -24,7 +24,6 @@
 | Link | Description |
 | ------ | ------ |
 |  https://github.com/react-native-training/react-native-fonts | React native fonts  |
-|  https://reactnativeelements.com/ | React native element, components library  |
 |  https://www.npmjs.com/package/react-native-splash-screen | Splash screen  |
 |  https://www.npmjs.com/package/react-native-appearance | Appearance, color scheme  |
 
@@ -51,6 +50,7 @@
 | ------ | ------ |
 |  https://github.com/rilyu/teaset | teaset  |
 |  https://github.com/wix/react-native-ui-lib | ui lib  |
+|  https://reactnativeelements.com/ | React native element, components library  |
 
 
 
