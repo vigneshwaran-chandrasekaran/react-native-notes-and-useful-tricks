@@ -92,7 +92,7 @@ javac -version
 
 Go to your React-native Project -> Android
 
-Create a file local.properties
+Create a file __local.properties__ 
 
 Open the file
 
@@ -112,8 +112,7 @@ Now, Run the react-native run-android in your terminal.
 
 example in my system sample file is
 
-sdk.dir = /home/user5/Android/Sdk
-
+__sdk.dir = /home/user5/Android/Sdk__ 
 
 
  ## Absolute path in React native
