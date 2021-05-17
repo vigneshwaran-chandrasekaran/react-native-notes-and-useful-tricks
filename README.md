@@ -84,6 +84,28 @@ java -version
 
 javac -version
 ```
+ ## Add SDK location to run the app
+ 
+  [Stack overflow answer](https://stackoverflow.com/a/43626724/3882241)
+
+ 
+
+Go to your React-native Project -> Android
+Create a file local.properties
+Open the file
+paste your Android SDK path like below
+
+in Windows sdk.dir = C:\\Users\\USERNAME\\AppData\\Local\\Android\\sdk
+in macOS sdk.dir = /Users/USERNAME/Library/Android/sdk
+in linux sdk.dir = /home/USERNAME/Android/Sdk
+Replace USERNAME with your user name
+
+Now, Run the react-native run-android in your terminal.
+
+my system sample file is
+sdk.dir = /home/user2/Android/Sdk
+
+
 
  ## Absolute path in React native
  Babel Plugin Module Resolver [Module Resolver](https://github.com/tleunen/babel-plugin-module-resolver)
