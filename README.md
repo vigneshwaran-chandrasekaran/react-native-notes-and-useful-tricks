@@ -66,9 +66,9 @@ npx react-native init <FolderName>
 
 
  ## Install Java in Ubuntu
-|  https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-on-ubuntu-18-04 |
+https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-on-ubuntu-18-04
 
-|  https://linuxize.com/post/install-java-on-ubuntu-18-04/ |
+https://linuxize.com/post/install-java-on-ubuntu-18-04/ 
 
 to install java on ubuntu
  ```
