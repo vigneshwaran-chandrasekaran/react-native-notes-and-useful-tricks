@@ -52,6 +52,7 @@
 |  https://github.com/rilyu/teaset | teaset  |
 |  https://github.com/wix/react-native-ui-lib | ui lib  |
 |  https://reactnativeelements.com/ | React native element, components library  |
+|  https://akveo.github.io/react-native-ui-kitten/ | kitten  |
 
 
  ## Install React Native
